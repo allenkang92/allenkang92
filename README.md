@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E1DB,100:4285F4&height=200&section=header&text=Allen%20Kang's%20GitHub&fontSize=50&fontColor=333333" width="100%"/>
-
 <div align="center">
 
 ## Knowledge Domains
@@ -11,11 +9,9 @@
 | Specific Interests | ![Environmental Issues](https://img.shields.io/badge/Environmental%20Issues-FFFFFF?style=flat-square) ![Brain-Computer Interface](https://img.shields.io/badge/Brain--Computer%20Interface-FFFFFF?style=flat-square) ![Human-Computer Interaction](https://img.shields.io/badge/Human--Computer%20Interaction-FFFFFF?style=flat-square) ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-FFFFFF?style=flat-square) ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-FFFFFF?style=flat-square) ![Social Impact Studies](https://img.shields.io/badge/Social%20Impact%20Studies-FFFFFF?style=flat-square) ![Human Behavior Research](https://img.shields.io/badge/Human%20Behavior%20Research-FFFFFF?style=flat-square) ![Philosophy of Science](https://img.shields.io/badge/Philosophy%20of%20Science-FFFFFF?style=flat-square) |
 
 ## Stats
-![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=donut&theme=buefy)](https://github.com/allenkang92/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" width="48%" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" width="48%" height="180">
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallenkang92%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E1DB,100:4285F4&height=200&section=footer&text=&fontSize=0" width="100%"/>
