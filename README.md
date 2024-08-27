@@ -12,7 +12,7 @@
 ## Stats
 <div align="center">
 <div style="display: flex; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" width="49.5%" height="210">
+  <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" width="49.5%" height="220">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" width="49.5%" height="200" >
 </div>
 
