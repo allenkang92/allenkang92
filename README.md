@@ -11,4 +11,6 @@
 
 
 ## 
-![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy)
+![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=donut)](https://github.com/allenkang92/github-readme-stats)
+
+  
