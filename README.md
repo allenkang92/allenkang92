@@ -11,4 +11,4 @@
 
 
 ## 
-![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=radical)
+![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=neon)
