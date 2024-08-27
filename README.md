@@ -1,6 +1,7 @@
 <div align="center">
 
 ## Knowledge Domains
+
 | **Category** | **Details** |
 |--------------|-------------|
 | My Majors | ![Sports Science](https://img.shields.io/badge/Sports%20Science-A8E1DB?style=flat-square) ![Culture Studies](https://img.shields.io/badge/Culture%20Studies-A8E1DB?style=flat-square) ![Law](https://img.shields.io/badge/Law-A8E1DB?style=flat-square) ![Intellectual Property](https://img.shields.io/badge/Intellectual%20Property-A8E1DB?style=flat-square) ![Computer Science](https://img.shields.io/badge/Computer%20Science-A8E1DB?style=flat-square) |
@@ -9,8 +10,11 @@
 | Specific Interests | ![Environmental Issues](https://img.shields.io/badge/Environmental%20Issues-FFFFFF?style=flat-square) ![Brain-Computer Interface](https://img.shields.io/badge/Brain--Computer%20Interface-FFFFFF?style=flat-square) ![Human-Computer Interaction](https://img.shields.io/badge/Human--Computer%20Interaction-FFFFFF?style=flat-square) ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-FFFFFF?style=flat-square) ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-FFFFFF?style=flat-square) ![Social Impact Studies](https://img.shields.io/badge/Social%20Impact%20Studies-FFFFFF?style=flat-square) ![Human Behavior Research](https://img.shields.io/badge/Human%20Behavior%20Research-FFFFFF?style=flat-square) ![Philosophy of Science](https://img.shields.io/badge/Philosophy%20of%20Science-FFFFFF?style=flat-square) |
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" width="48%" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" width="48%" height="180">
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" width="49%" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" width="49%" height="180">
+</div>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallenkang92%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
 
