@@ -1,3 +1,4 @@
+## "Striving for a better tomorrow, together with you."
 
 ## Knowledge Domains
 
