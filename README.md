@@ -10,16 +10,20 @@
 | **![Specific Interests](https://img.shields.io/badge/Specific%20Interests-EAF4FB?style=flat-square)** | ![Environmental Issues](https://img.shields.io/badge/Environmental%20Issues-EAF4FB?style=flat-square) ![Brain-Computer Interface](https://img.shields.io/badge/Brain--Computer%20Interface-EAF4FB?style=flat-square) ![Human-Computer Interaction](https://img.shields.io/badge/Human--Computer%20Interaction-EAF4FB?style=flat-square) ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-EAF4FB?style=flat-square) ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-EAF4FB?style=flat-square) ![Social Impact Studies](https://img.shields.io/badge/Social%20Impact%20Studies-EAF4FB?style=flat-square) ![Human Behavior Research](https://img.shields.io/badge/Human%20Behavior%20Research-EAF4FB?style=flat-square) ![Philosophy of Science](https://img.shields.io/badge/Philosophy%20of%20Science-EAF4FB?style=flat-square) |
 
 ## Stats
-<div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1000px; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" style="flex: 0.5; height: 230px; object-fit: cover; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" style="flex: 0.5; height: 230px; object-fit: cover;">
-  </div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" width="450" height="230">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" width="450" height="230">
+    </td>
+  </tr>
+</table>
 
-  <div align="right" style="margin-top: 20px;">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallenkang92%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
-  </div>
+<div align="right">
+  <br><br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallenkang92%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
 </div>
-
 
 
