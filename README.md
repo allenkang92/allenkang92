@@ -11,13 +11,16 @@
 
 ## Stats
 <div align="center">
-  <div style="display: flex; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" width="49.5%" height="230">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" width="49.5%" height="200">
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" style="width: 48%; height: 230px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" style="width: 48%; height: 230px;">
   </div>
 
-  <div align="right">
-    <br><br>
+  <div align="right" style="margin-top: 20px;">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallenkang92%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
   </div>
 </div>
+
+
+
+
