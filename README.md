@@ -12,8 +12,8 @@
 ## Stats
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1000px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" style="flex: 1; width: 48%; height: 200px; object-fit: cover; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" style="flex: 1; width: 48%; height: 200px; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" style="flex: 1; width: 48%; height: 180px; object-fit: cover; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy" style="flex: 1; width: 48%; height: 180px; object-fit: cover;">
   </div>
 
   <div align="right" style="margin-top: 20px;">
