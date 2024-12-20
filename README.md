@@ -33,7 +33,7 @@
 | **![Databases](https://img.shields.io/badge/Databases-EAF4FB?style=flat-square)** | ![MySQL](https://img.shields.io/badge/MySQL-A8E1DB?style=flat-square&logo=MySQL&logoColor=EAF4FB) |
 | **![Machine Learning and Deep Learning](https://img.shields.io/badge/Machine%20Learning%20and%20Deep%20Learning-EAF4FB?style=flat-square)** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFCBDF?style=flat-square&logo=scikit-learn&logoColor=EAF4FB) ![PyTorch](https://img.shields.io/badge/PyTorch-C1B3F2?style=flat-square&logo=PyTorch&logoColor=EAF4FB) |
 | **![Monitoring and Logging](https://img.shields.io/badge/Monitoring%20and%20Logging-EAF4FB?style=flat-square)** | ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-A8E1DB?style=flat-square&logo=Elastic-Stack&logoColor=EAF4FB) |
-| **![Containers](https://img.shields.io/badge/Containers%20and%20Orchestration-EAF4FB?style=flat-square)** | ![Docker](https://img.shields.io/badge/Docker-A8E1DB?style=flat-square&logo=Docker&logoColor=EAF4FB) |
+| **![Containers](https://img.shields.io/badge/Containers-EAF4FB?style=flat-square)** | ![Docker](https://img.shields.io/badge/Docker-A8E1DB?style=flat-square&logo=Docker&logoColor=EAF4FB) |
 | **![Message Brokers](https://img.shields.io/badge/Message%20Brokers-EAF4FB?style=flat-square)** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-FFCBDF?style=flat-square&logo=Apache-Kafka&logoColor=EAF4FB) |
 
 
