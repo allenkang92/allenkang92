@@ -23,19 +23,6 @@
 |--------------|-------------|
 | **![Professional Experiences](https://img.shields.io/badge/Professional%20Experiences-EAF4FB?style=flat-square)** | ![Startup Marketer](https://img.shields.io/badge/Startup%20Marketer-A8E1DB?style=flat-square) ![Financial Loan Officer](https://img.shields.io/badge/Financial%20Loan%20Officer-A8E1DB?style=flat-square) ![Chemical Engineering Researcher](https://img.shields.io/badge/Chemical%20Engineering%20Researcher-A8E1DB?style=flat-square) |
 
-## Tech Stack
-
-| **Category** | **Technologies** |
-|--------------|-------------------|
-| **![Programming Languages](https://img.shields.io/badge/Programming%20Languages-EAF4FB?style=flat-square)** | ![Python](https://img.shields.io/badge/Python-A8E1DB?style=flat-square&logo=Python&logoColor=EAF4FB) |
-| **![Web Frameworks](https://img.shields.io/badge/Web%20Frameworks-EAF4FB?style=flat-square)** | ![FastAPI](https://img.shields.io/badge/FastAPI-C1B3F2?style=flat-square&logo=FastAPI&logoColor=EAF4FB) |
-| **![Data Processing Tools](https://img.shields.io/badge/Data%20Processing%20Tools-EAF4FB?style=flat-square)** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-A8E1DB?style=flat-square&logo=Apache-Spark&logoColor=EAF4FB) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-A8E1DB?style=flat-square&logo=Apache-Flink&logoColor=EAF4FB) |
-| **![Machine Learning and Deep Learning](https://img.shields.io/badge/Machine%20Learning%20and%20Deep%20Learning-EAF4FB?style=flat-square)** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFCBDF?style=flat-square&logo=scikit-learn&logoColor=EAF4FB) ![PyTorch](https://img.shields.io/badge/PyTorch-C1B3F2?style=flat-square&logo=PyTorch&logoColor=EAF4FB) |
-| **![Monitoring and Logging](https://img.shields.io/badge/Monitoring%20and%20Logging-EAF4FB?style=flat-square)** | ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-A8E1DB?style=flat-square&logo=Elastic-Stack&logoColor=EAF4FB) |
-| **![Containers](https://img.shields.io/badge/Containers-EAF4FB?style=flat-square)** | ![Docker](https://img.shields.io/badge/Docker-A8E1DB?style=flat-square&logo=Docker&logoColor=EAF4FB) |
-| **![Message Brokers](https://img.shields.io/badge/Message%20Brokers-EAF4FB?style=flat-square)** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-FFCBDF?style=flat-square&logo=Apache-Kafka&logoColor=EAF4FB) |
-
-
 
 ## Stats
 <div align="center">
