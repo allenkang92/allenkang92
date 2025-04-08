@@ -28,7 +28,7 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1000px; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=allenkang92&show_icons=true&theme=buefy" style="flex: 1; width: 48%; height: 170px; object-fit: cover; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy&size_weight=0.4&count_weight=0.6" style="flex: 1; width: 48%; height: 170px; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy&size_weight=0.3&count_weight=0.7" style="flex: 1; width: 48%; height: 170px; object-fit: cover;">
   </div>
 
 
