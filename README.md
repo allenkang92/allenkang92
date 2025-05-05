@@ -18,7 +18,7 @@ I enjoy exploring a wide range of knowledge and have studied and gained experien
 
 | **Category** | **Details** |
 |--------------|-------------|
-| **![Core Focus](https://img.shields.io/badge/Core%20Focus-EAF4FB?style=flat-square)** | ![Data Science](https://img.shields.io/badge/Data%20Science-C1B3F2?style=flat-square) ![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-C1B3F2?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-C1B3F2?style=flat-square) ![Physics](https://img.shields.io/badge/Physics-A8E1DB?style=flat-square) ![Chemistry](https://img.shields.io/badge/Chemistry-A8E1DB?style=flat-square) ![Life Science](https://img.shields.io/badge/Life%20Science-A8E1DB?style=flat-square) ![Mathematics](https://img.shields.io/badge/Mathematics-A8E1DB?style=flat-square)  ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-FFCBDF?style=flat-square) |
+| **![Core Focus](https://img.shields.io/badge/Core%20Focus-EAF4FB?style=flat-square)** | ![Data Science](https://img.shields.io/badge/Data%20Science-C1B3F2?style=flat-square) ![Physics](https://img.shields.io/badge/Physics-A8E1DB?style=flat-square) ![Chemistry](https://img.shields.io/badge/Chemistry-A8E1DB?style=flat-square) ![Life Science](https://img.shields.io/badge/Life%20Science-A8E1DB?style=flat-square) ![Mathematics](https://img.shields.io/badge/Mathematics-A8E1DB?style=flat-square)  ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-FFCBDF?style=flat-square) |
 
 
 #### Diverse Perspectives & Background
@@ -26,7 +26,7 @@ I enjoy exploring a wide range of knowledge and have studied and gained experien
 | **Category** | **Details** |
 |--------------|-------------|
 | **![Humanities & Social Sciences](https://img.shields.io/badge/Humanities%20%26%20Social%20Sciences-EAF4FB?style=flat-square)** | ![Anthropology](https://img.shields.io/badge/Anthropology-A8E1DB?style=flat-square) ![Law](https://img.shields.io/badge/Law-A8E1DB?style=flat-square) ![Intellectual Property](https://img.shields.io/badge/Intellectual%20Property-A8E1DB?style=flat-square) |
-| **![Applied Sciences & Engineering](https://img.shields.io/badge/Applied%20Sciences%20%26%20Engineering-EAF4FB?style=flat-square)** | ![Sports Science](https://img.shields.io/badge/Sports%20Science-A8E1DB?style=flat-square) |
+| **![Applied Sciences & Engineering](https://img.shields.io/badge/Applied%20Sciences%20%26%20Engineering-EAF4FB?style=flat-square)** | ![Sports Science](https://img.shields.io/badge/Sports%20Science-A8E1DB?style=flat-square) ![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-C1B3F2?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-C1B3F2?style=flat-square) |
 | **![Professional Experiences](https://img.shields.io/badge/Professional%20Experiences-EAF4FB?style=flat-square)** | ![Startup Marketer](https://img.shields.io/badge/Startup%20Marketer-A8E1DB?style=flat-square) ![Financial Loan Officer](https://img.shields.io/badge/Financial%20Loan%20Officer-A8E1DB?style=flat-square) ![Chemical Engineering Researcher](https://img.shields.io/badge/Chemical%20Engineering%20Researcher-A8E1DB?style=flat-square) |
 
 *   **Value Add:** These diverse backgrounds provide multi-faceted perspectives for problem-solving in healthcare data science.
