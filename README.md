@@ -4,7 +4,7 @@
 
 Hi there! 👋 It's allen, driven by a deep curiosity across various academic fields and a passion for exploring the power of data. My current focus is fueled by a fascination with **life's mechanisms** and the potential of data analysis in **"healing the sick"**. Therefore, I am actively pursuing the goal of becoming a **Healthcare/Bio Domain Data Scientist**.
 
-I aim to leverage my background (including Law, Sports Science, etc.) to bring unique perspectives to problem-solving and make a positive impact. To achieve this goal systematically, I've developed a growth plan using the **Mandalart Chart** technique, inspired by Shohei Ohtani, and I'm actively executing it.
+I aim to leverage my background (including Law, Sports Science, etc.) to bring unique perspectives to problem-solving and make a positive impact. To achieve this goal systematically, I've developed a growth plan using the **Mandalart Chart** technique, inspired by Ohtani Shohei, and I'm actively executing it.
 
 **👉 [Explore my Healthcare Data Science Voyage & Roadmap](https://github.com/allenkang92/healthcare-ds-growth-plan)**
 
