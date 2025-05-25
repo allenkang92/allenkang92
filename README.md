@@ -39,7 +39,9 @@ I enjoy exploring a wide range of knowledge and have studied and gained experien
 
 *   **Rationale:** These are areas related to my current goals or fields I wish to explore further in the future to broaden my data science perspective.
 
+
 ---
+
 
 ## Stats
 <div align="center">
@@ -48,5 +50,6 @@ I enjoy exploring a wide range of knowledge and have studied and gained experien
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkang92&layout=compact&theme=buefy&size_weight=0.35&count_weight=0.65" style="flex: 1; width: 48%; height: 170px; object-fit: cover;">
   </div>
 </div>
+
 
 ---
