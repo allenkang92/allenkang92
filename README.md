@@ -2,9 +2,11 @@
 
 ## "Striving for a better tomorrow, together with you."
 
-Hello! 👋 I'm Allen, an AI Developer and Data Scientist passionate about bridging the physical and virtual worlds through Digital Twin technology.
+Hello! 👋 I'm Allen, currently working as a Data Scientist and AI Developer passionate about bridging the physical and virtual worlds through Digital Twin technology.
 
-Currently, I focus on applied AI research, model development, and experimental validation to create impactful solutions.
+I focus on applied AI research, model development, and experimental validation to create impactful solutions.
+
+I will be advancing my expertise by pursuing part-time graduate studies in Cognitive Science, aiming to deepen my understanding and application of human cognition principles in AI-driven simulations and systems.
 
 ---
 
@@ -26,7 +28,7 @@ I enjoy exploring a wide range of knowledge and have studied and gained experien
 | **![Applied Sciences & Engineering](https://img.shields.io/badge/Applied%20Sciences%20%26%20Engineering-EAF4FB?style=flat-square)** | ![Sports Science](https://img.shields.io/badge/Sports%20Science-A8E1DB?style=flat-square) ![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-C1B3F2?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-C1B3F2?style=flat-square) |
 | **![Professional Experiences](https://img.shields.io/badge/Professional%20Experiences-EAF4FB?style=flat-square)** | ![Startup Marketer](https://img.shields.io/badge/Startup%20Marketer-A8E1DB?style=flat-square) ![Financial Loan Officer](https://img.shields.io/badge/Financial%20Loan%20Officer-A8E1DB?style=flat-square) ![Chemical Engineering Researcher](https://img.shields.io/badge/Chemical%20Engineering%20Researcher-A8E1DB?style=flat-square) |
 
-*   **Value Add:** These diverse backgrounds provide multi-faceted perspectives for problem-solving in applied AI and digital twin research.
+*   **Value Add :** These diverse backgrounds provide multi-faceted perspectives for problem-solving in applied AI and digital twin research.
 
 #### Future Learning & Exploration
 
@@ -34,7 +36,7 @@ I enjoy exploring a wide range of knowledge and have studied and gained experien
 |--------------|-------------|
 | **![Areas for Deeper Dive](https://img.shields.io/badge/Future%20Exploration-EAF4FB?style=flat-square)** | ![Cognitive Science](https://img.shields.io/badge/Cognitive%20Science-FFCBDF?style=flat-square) ![Neuroscience](https://img.shields.io/badge/Neuroscience-FFCBDF?style=flat-square) ![Brain-Computer Interface](https://img.shields.io/badge/Brain--Computer%20Interface-FFCBDF?style=flat-square) ![Human-Computer Interaction](https://img.shields.io/badge/Human--Computer%20Interaction-FFCBDF?style=flat-square) ![Human Factors Engineering](https://img.shields.io/badge/Human%20Factors%20Engineering-FFCBDF?style=flat-square) |
 
-*   **Rationale:** These are areas related to my current goals or fields I wish to explore further in the future to broaden my perspective in AI and digital twin research.
+*   **Rationale :** These fields represent the areas I am eager to further explore and deepen in order to expand my capabilities and perspectives within AI research.
 
 ---
 
