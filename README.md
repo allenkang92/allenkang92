@@ -1,8 +1,8 @@
-# Voyage into Digital Twin & AI Applied Research 🧭🔬✨
+# Voyage into AI Applied Research 🧭🔬✨
 
 ## "Striving for a better tomorrow, together with you."
 
-Hello! 👋 I'm Allen, currently working as a Data Scientist and AI Developer passionate about bridging the physical and virtual worlds through Digital Twin technology.
+Hello! 👋 I'm Allen, currently working as a Data Scientist and AI Developer.
 
 I focus on applied AI research, model development, and experimental validation to create impactful solutions.
 
@@ -28,7 +28,7 @@ I enjoy exploring a wide range of knowledge and have studied and gained experien
 | **![Applied Sciences & Engineering](https://img.shields.io/badge/Applied%20Sciences%20%26%20Engineering-EAF4FB?style=flat-square)** | ![Sports Science](https://img.shields.io/badge/Sports%20Science-A8E1DB?style=flat-square) ![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-C1B3F2?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-C1B3F2?style=flat-square) |
 | **![Professional Experiences](https://img.shields.io/badge/Professional%20Experiences-EAF4FB?style=flat-square)** | ![Startup Marketer](https://img.shields.io/badge/Startup%20Marketer-A8E1DB?style=flat-square) ![Financial Loan Officer](https://img.shields.io/badge/Financial%20Loan%20Officer-A8E1DB?style=flat-square) ![Chemical Engineering Researcher](https://img.shields.io/badge/Chemical%20Engineering%20Researcher-A8E1DB?style=flat-square) |
 
-*   **Value Add :** These diverse backgrounds provide multi-faceted perspectives for problem-solving in applied AI and digital twin research.
+*   **Value Add :** These diverse backgrounds provide multi-faceted perspectives for problem-solving in applied AI research.
 
 #### Future Learning & Exploration
 
